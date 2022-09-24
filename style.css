@@ -1,0 +1,40 @@
+/* header CSS */
+img{
+    max-width: 100%
+}
+
+.logo img{
+    width: 100px ;
+}
+
+.header {
+    padding: 15px 0;
+}
+
+.nav-it {
+    margin-left: 137px;
+}
+
+/* banner css */
+
+.banner{
+    background-color: #f9f7ff;
+}
+
+.banner-img img{
+    width: 100%;
+}
+.banner-text h1{
+    font-size: 45px;
+}
+.banner-text h3{
+    font-size: 30px;
+    margin-top: 89px;
+}
+.banner-text p{
+    padding: 10px 0;
+    line-height: 1.2;
+}
+.counter{
+    background-color: #8490FF;
+}
